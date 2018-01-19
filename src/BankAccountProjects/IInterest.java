@@ -1,4 +1,4 @@
-package Projects;
+package BankAccountProjects;
 
 public interface IInterest {
     public double rate = 4.5;

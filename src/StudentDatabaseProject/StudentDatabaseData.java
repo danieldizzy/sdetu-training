@@ -1,4 +1,4 @@
-package StudentDatabase;
+package StudentDatabaseProject;
 
 public class StudentDatabaseData {
 

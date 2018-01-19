@@ -1,6 +1,4 @@
-package Projects;
-
-import java.security.SecureRandom;
+package BankAccountProjects;
 
 public class BankAccount implements IInterest{
     private static int iD = 2000; //Internal ID
